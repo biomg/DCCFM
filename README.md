@@ -1,5 +1,6 @@
 # DCCFM
 We propose a drug-cell cross-fusion method (DCCFM) based on attention mechanism for predicting anti-cancer drug response.
+![DCCFM Framework](./images/DCCFM.jpg "DCCFM - Drug-Cell Cross-Fusion Method Framework")
 # Requirements
 - python == 3.9
 - pytorch == 1.11.0
